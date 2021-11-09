@@ -1,1 +1,2 @@
 # miniproject_4th-year-cs
+This is the code file of the mini project submitted to Prasad V. Poltluri Siddhartha Institute of Technology for fullfillment of 4th year 1st semester credits. This project is about robust image detection using Le Net CNN architecture using the CIPHAR 10 dataset. The dataset is available in keras.datasets modules and can be loaded using the keras.datasets.cipar10.load_data().
